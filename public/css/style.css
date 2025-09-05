@@ -1,0 +1,6 @@
+
+body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f7f7f9}
+.nav{display:flex;gap:12px;padding:12px;background:#fff;border-bottom:1px solid #eee}
+.container{max-width:1000px;margin:16px auto;padding:8px}
+.card{background:#fff;padding:12px;border-radius:8px;border:1px solid #eee}
+.btn{background:#111;color:#fff;padding:8px 12px;border-radius:6px;border:0;cursor:pointer}
